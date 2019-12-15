@@ -12,3 +12,5 @@ htmlタグを記述し、コンパイルでreact.jsのコードが出力され�
 ## props
 
 ## state
+
+## Redux
